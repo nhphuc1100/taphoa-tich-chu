@@ -1,8 +1,6 @@
-# Cho phép tất cả các công cụ tìm kiếm khác (Google, Bing...)
 User-agent: *
 Allow: /
 
-# Cho phép Facebook cào dữ liệu preview (Messenger/Posts)
 User-agent: facebookexternalhit
 Allow: /
 
